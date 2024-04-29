@@ -1,0 +1,80 @@
+"C:\Program Files\JetBrains\CLion 2024.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\clion\physic -B D:\clion\physic\cmake-build-debug
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2024.1/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2024.1/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Populating raylib
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild
+Cloning into 'raylib-src'...
+remote: Enumerating objects: 43035, done.        
+remote: Counting objects: 100% (555/555), done.        
+remote: Compressing objects: 100% (271/271), done.        
+
+
+Receiving objects:  39% (17186/43035), 249.77 MiB | 1.45 MiB/s
+Receiving objects:  41% (17862/43035), 255.95 MiB | 1.35 MiB/s
+
+Receiving objects:  54% (23239/43035), 258.86 MiB | 1.67 MiB/s
+
+
+
+Receiving objects:  58% (25167/43035), 262.67 MiB | 1.90 MiB/s
+
+Receiving objects:  58% (25167/43035), 265.21 MiB | 2.03 MiB/s
+Receiving objects:  66% (28404/43035), 279.07 MiB | 2.14 MiB/s
+
+Receiving objects:  67% (28941/43035), 284.24 MiB | 2.08 MiB/s
+remote: Total 43035 (delta 362), reused 420 (delta 284), pack-reused 42480        
+Receiving objects: 100% (43035/43035), 385.60 MiB | 1.64 MiB/s, done.
+Resolving deltas: 100% (31399/31399), done.
+HEAD is now at ae50bfa2 Updated Npp intellisense data for raylib 5.0
+[1/9] Creating directories for 'raylib-populate'
+[1/9] Performing download step (git clone) for 'raylib-populate'
+[2/9] Performing update step for 'raylib-populate'
+[3/9] No patch step for 'raylib-populate'
+[5/9] No configure step for 'raylib-populate'
+[6/9] No build step for 'raylib-populate'
+[7/9] No install step for 'raylib-populate'
+[8/9] No test step for 'raylib-populate'
+[9/9] Completed 'raylib-populate'
+CMake Deprecation Warning at cmake-build-debug/_deps/raylib-src/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Performing Test COMPILER_HAS_THOSE_TOGGLES
+-- Performing Test COMPILER_HAS_THOSE_TOGGLES - Success
+-- Testing if -Werror=pointer-arith can be used -- compiles
+-- Testing if -Werror=implicit-function-declaration can be used -- compiles
+-- Testing if -fno-strict-aliasing can be used -- compiles
+-- Using raylib's GLFW
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Including Win32 support
+-- Looking for dinput.h
+-- Looking for dinput.h - found
+-- Looking for xinput.h
+-- Looking for xinput.h - found
+-- Audio Backend: miniaudio
+-- Building raylib static library
+-- Generated build type: Debug
+-- Compiling with the flags:
+--   PLATFORM=PLATFORM_DESKTOP
+--   GRAPHICS=GRAPHICS_API_OPENGL_33
+-- Configuring done (252.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/clion/physic/cmake-build-debug

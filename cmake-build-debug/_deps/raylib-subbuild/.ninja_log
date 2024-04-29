@@ -1,0 +1,21 @@
+# ninja log v5
+2	71	7360690419336424	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	77e3d7e7b469099
+2	71	7360690419336424	D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	77e3d7e7b469099
+108	241571	7360692834356199	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	30767ec74a86f99d
+108	241571	7360692834356199	D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	30767ec74a86f99d
+241571	241713	0	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	b8d399493ffa4544
+241571	241713	0	D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	b8d399493ffa4544
+241751	241826	7360692836895863	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	eb4ac92edb785c17
+241751	241826	7360692836895863	D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	eb4ac92edb785c17
+241826	241888	7360692837512253	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	c46d42c00cd814c
+241826	241888	7360692837512253	D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	c46d42c00cd814c
+241888	241957	7360692838195006	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	daa3b75e393e9ed2
+241888	241957	7360692838195006	D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	daa3b75e393e9ed2
+241958	242085	7360692839420161	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	7375c6d09eceba7e
+241958	242085	7360692839420161	D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	7375c6d09eceba7e
+242085	242165	7360692840294600	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	31c42e3eb807d795
+242085	242165	7360692840294600	D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	31c42e3eb807d795
+242165	242244	7360692841073727	CMakeFiles/raylib-populate-complete	b39f506c83c0a391
+242165	242244	7360692841073727	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	b39f506c83c0a391
+242165	242244	7360692841073727	D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	b39f506c83c0a391
+242165	242244	7360692841073727	D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	b39f506c83c0a391

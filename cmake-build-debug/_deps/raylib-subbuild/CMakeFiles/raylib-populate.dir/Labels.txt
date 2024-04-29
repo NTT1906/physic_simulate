@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+D:/clion/physic/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule
